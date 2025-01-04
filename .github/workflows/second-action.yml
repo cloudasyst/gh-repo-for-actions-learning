@@ -10,3 +10,4 @@ jobs:
           touch abc.txt
           echo "test" >> abc.txt
           cat abc.txt
+          pwd
